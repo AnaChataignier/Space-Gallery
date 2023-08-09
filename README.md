@@ -4,13 +4,13 @@ Apenas as imagens postadas pelo usuário logado poderão ser editadas e deletada
 As imagens são hospedadas na nuvem da AWS.
 
 
-| :placard: Anadev     |[Ana Chataignier](https://www.linkedin.com/in/ana-chataignier-6a3768263/)|
+| Dev   |[Ana Chataignier](https://www.linkedin.com/in/ana-chataignier-6a3768263/)|
 | ------------------------  | --- |
-| :sparkles: Nome           | **Space Gallery**
-| :label: Tecnologias       | Python, Django, AWS, 
-| :rocket: Deploy           | [Acesse aqui]('#')
-| :fire: Formação           | [Django: crie aplicações em Python](https://cursos.alura.com.br/formacao-django)
-| :mortar_board: Certificado| [Veja aqui o meu certificado](https://cursos.alura.com.br/degree/certificate/4bbcac78-dc1c-4e3e-bdf4-1f79d0f05088?lang=pt_BR)
+|  Nome           | **Space Gallery**
+|  Tecnologias    | Python, Django, AWS 
+|  Deploy         | [Acesse aqui]('#')
+|  Formação       | [Django: crie aplicações em Python](https://cursos.alura.com.br/formacao-django)
+|  Certificado| [Veja aqui o meu certificado](https://cursos.alura.com.br/degree/certificate/4bbcac78-dc1c-4e3e-bdf4-1f79d0f05088?lang=pt_BR)
 
 ![]("#")
 
