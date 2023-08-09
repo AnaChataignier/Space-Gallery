@@ -10,7 +10,7 @@ As imagens são hospedadas na nuvem da AWS.
 | :label: Tecnologias       | Python, Django, AWS, 
 | :rocket: Deploy           | [Acesse aqui]('#')
 | :fire: Formação           | [Django: crie aplicações em Python](https://cursos.alura.com.br/formacao-django)
-| :mortar_board: Certificado| [Veja aqui o meu certificado](https://cursos.alura.com.br/degree/certificate/4bbcac78-dc1c-4e3e-bdf4-1f79d0f05088?lang=pt_BR)
+| :mortar_board: Certificado| [Veja aqui o meu certificado](https://cursos.alura.com.br/degree/certificate/)
 
 ![]("#")
 
