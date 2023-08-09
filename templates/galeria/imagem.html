@@ -17,11 +17,12 @@
                                 <br>
                                 <p class="imagem__texto">foto publicada pelo usuário :{{fotografia.usuario}}</p>
                             </div>
-                            <div>
-                                <a href="{% url 'editar_imagem' fotografia.id %}"> <button class="btn btn-success col-12" style="padding: top 5px;">Editar</button></a>
-                                <a href="{% url 'deletar_imagem' fotografia.id %}"> <button class="btn btn-danger col-12" style="padding: top 5px;">Deletar</button></a>
-                        
-                            </div>
+                            {% if fotografia.usuario == request.user %}
+                                <div>
+                                    <a href="{% url 'editar_imagem' fotografia.id %}"> <button class="btn btn-success col-12" style="padding: top 5px;">Editar</button></a>
+                                    <a href="{% url 'deletar_imagem' fotografia.id %}"> <button class="btn btn-danger col-12" style="padding: top 5px;">Deletar</button></a>
+                                </div>
+                            {% endif%}
                         </div>
                     </div>
                 </section>
