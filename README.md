@@ -1,5 +1,5 @@
-# Space Gallary
-O Space Gallary é um site de hospedagem de fotos do espaço, onde o usuário precisa se cadastrar para acessar, e só assim poderá fazer upload de imagem. 
+# Space Gallery
+O Space Gallery é um site de hospedagem de fotos do espaço, onde o usuário precisa se cadastrar para acessar, e só assim poderá fazer upload de imagem. 
 Apenas as imagens postadas pelo usuário logado poderão ser editadas e deletadas.
 As imagens são hospedadas na nuvem da AWS.
 
