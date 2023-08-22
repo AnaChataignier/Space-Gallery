@@ -8,10 +8,10 @@ As imagens são hospedadas na nuvem da AWS.
 | ------------------------  | --- |
 |  Nome           | **Space Gallery**
 |  Tecnologias    | Python, Django, AWS 
-|  Deploy         | [Acesse aqui]('#')
+|  Deploy         | [Acesse aqui](https://galeriaespaco.fly.dev/login)
 |  Formação       | [Django: crie aplicações em Python](https://cursos.alura.com.br/formacao-django)
 |  Certificado| [Veja aqui o meu certificado](https://cursos.alura.com.br/degree/certificate/)
 
 ![]("#")
 
-Site feito na formação da Alura em Django. Veja aqui [o resultado final]("#")
+Site feito na formação da Alura em Django. Veja aqui [o resultado final](https://galeriaespaco.fly.dev/login)
